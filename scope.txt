@@ -1,0 +1,4 @@
+# 7ett hna GHIR l domains li 3ndek l idn 3lihom (kola wa7ed f ligne).
+# Exemple:
+# monsite.ma
+# localhost
